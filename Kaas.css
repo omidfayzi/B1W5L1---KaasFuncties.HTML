@@ -1,0 +1,16 @@
+html {
+	background-image: url("zuivelhoeve7.jpg");
+	background-repeat: no-repeat; /* Do not repeat the image */
+	background-size: cover; /* Resize the background image to cover the entire container */
+}
+p {
+ font-size: 20px;
+}
+.Wrong{
+	color: gold;
+	text-align: center;
+}
+.Good{
+	color: gold;
+	text-align: center;
+}
